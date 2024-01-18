@@ -5,7 +5,7 @@ This repository contains my submission for the assignment.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Running the Programs](#running-the-programs)
+- [Running Programs](#running-programs)
 
 ## Getting Started
 
